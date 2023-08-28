@@ -18,10 +18,20 @@ License
 Project Overview
 This project focuses on exploring and analyzing the Udemy course dataset, aiming to uncover trends, patterns, and insights related to course prices, ratings, and more. By utilizing Python for data analysis and visualization, the project provides a comprehensive understanding of the dataset's characteristics.
 
-# RESULTS : 
+# RESULTS  of the EXPLORATORY DATA ANALYSIS AND LINEAR REGRESSION MODELS USED :
 
 1.![image](https://github.com/krishna0306/Udemy-Courses-Stas-2023-Prices-Data_analysis/assets/94451390/43c03559-289b-40dd-90cc-db893afa993b)
-2.
+
+
+2.![image](https://github.com/krishna0306/Udemy-Courses-Stas-2023-Prices-Data_analysis/assets/94451390/f325a6fb-9acf-4ffb-9b1e-81dde4dbbf4c)
+
+3.![image](https://github.com/krishna0306/Udemy-Courses-Stas-2023-Prices-Data_analysis/assets/94451390/49d64d73-7c7e-4b92-8b86-62ae118d516c)
+
+4.![image](https://github.com/krishna0306/Udemy-Courses-Stas-2023-Prices-Data_analysis/assets/94451390/c829ad99-9dc4-4180-8d65-054fd66ffc6c)
+
+5.![image](https://github.com/krishna0306/Udemy-Courses-Stas-2023-Prices-Data_analysis/assets/94451390/3839aa03-f504-45c6-bf8d-0471e6b216ca)
+
+6.![image](https://github.com/krishna0306/Udemy-Courses-Stas-2023-Prices-Data_analysis/assets/94451390/84629cdc-cb86-434d-a803-d35c051e12d9)
 
 
 # Dataset Description
