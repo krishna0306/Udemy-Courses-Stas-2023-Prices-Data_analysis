@@ -21,7 +21,7 @@ This project focuses on exploring and analyzing the Udemy course dataset, aiming
 # Dataset Description
 The dataset contains information about various Udemy courses, including details such as course title, price, number of subscribers, average rating, number of reviews, and more. The columns in the dataset include:
 
-id
+**id
 title
 is_paid
 price
@@ -41,7 +41,7 @@ language
 course_url
 instructor_name
 instructor_url
-num_comments
+num_comments**
 # Data Analysis
 In this project, the dataset is analyzed to gain insights into various aspects of Udemy courses. This includes examining the distribution of prices, correlations between attributes, top categories, and more.
 
