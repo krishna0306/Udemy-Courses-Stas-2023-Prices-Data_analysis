@@ -1,5 +1,7 @@
 # Udemy-Courses-Stas-2023-Prices-Data_analysis
 
+
+# visit the link to contribute to the analytics and edit it in kaggle : https://www.kaggle.com/code/krishna0000007/udemy-2
 # Udemy Course Data Analysis
 Welcome to the Udemy Course Data Analysis repository! This project revolves around exploring and visualizing data from Udemy courses, analyzing their prices, ratings, and other attributes. By leveraging the power of Python and data visualization libraries, this project sheds light on valuable insights within the Udemy course dataset.
 
